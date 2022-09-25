@@ -15,4 +15,4 @@
 >
 > :warning:由于UI设计原因，程序支持的最大音乐文件容量为10首
 
-![](md-image\screenshot.png)
+![](md-image/screenshot.png)
