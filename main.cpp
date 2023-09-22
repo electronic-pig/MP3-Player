@@ -9,11 +9,12 @@ unsigned int liststate = 0;/* ÆäÖµ´ú±íÊó±êÖ¸µ½µÄ¸èÇúµÄĞòºÅ, 0´ú±íÊó±êÃ»ÓĞÎ»ÓÚÁĞ±
 unsigned int temp = 0;/* ×÷ÎªÅĞ¶ÏÁĞ±íÊó±êÎ»ÖÃµÄÖĞ¼ä±äÁ¿ */
 bool state = false;/* ²¥·Å×´Ì¬£¬fauseÎªÔİÍ££¬trueÎª²¥·Å */
 bool begin = false;/* ÊÇ·ñÒÑ¾­¿ªÊ¼²¥·Å */
+char path[] = ".\\music";
 
 int main() 
 {
 	/* ±éÀúÎÄ¼ş¼Ğ£¬»ñÈ¡¸èÇúÃû³Æµ½×Ö·ûÊı×é,Ã»ÓĞ¶ÁÈ¡µ½ÎÄ¼ş¾Í·¢³öÌáÊ¾ĞÅÏ¢²¢·µ»Ø */
-	if (search(".\\music") == 0)
+	if (search(path) == 0)
 	{
 		printf("musicÎÄ¼ş¼ĞÄÚÃ»ÓĞ¶ÁÈ¡µ½mp3ÎÄ¼ş\n");
 		system("pause");

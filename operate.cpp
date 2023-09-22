@@ -1,3 +1,4 @@
+#define _CRT_SECURE_NO_WARNINGS
 #include"common.h"
 
 /* 遍历文件夹，获取音乐名到数组 */
