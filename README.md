@@ -19,4 +19,9 @@
 > :warning: 项目使用的IDE为VS2022，且需要将项目属性的字符集改成多字节字符集才能正常编译，具体操作：`项目`->`属性`->`高级`->`字符集`->`使用多字节字符集`
 
 ## 页面展示
-<img width="602" alt="screenshot" src="https://github.com/electronic-pig/MP3-player/assets/103497254/661eb6a6-b3d2-43fe-a039-56e00251b629">
+![image](https://github.com/electronic-pig/MP3-Player/assets/103497254/a55c2fe1-3705-4a23-9917-cd0f303ffc17)
+
+
+
+
+
