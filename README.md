@@ -9,9 +9,7 @@
 > :rocket: 具有较美观的UI界面
 
 如果这个项目对您有用的话，请在右上角点个star⭐支持一下，谢谢！
-## 页面展示
 
-<img width="602" alt="screenshot" src="https://github.com/electronic-pig/MP3-player/assets/103497254/661eb6a6-b3d2-43fe-a039-56e00251b629">
 
 ## 项目须知
 > :warning: 程序只支持MP3格式的音乐播放
@@ -20,5 +18,8 @@
 >
 > :warning: 由于UI设计原因，程序支持的最大音乐文件容量为10首
 >
-> :warning: 项目的编译环境为VS2022，项目运行时需要更改字符集，具体操作为：1.点击`项目`2.点击`MP3音乐播放器 属性`3.选择`高级`->`字符集`，更改为`使用多字节字符集`
+> :warning: 项目使用的IDE为VS2022，且需要将项目属性的字符集改成多字节字符集才能正常编译，具体操作：`项目`->`属性`->`高级`->`字符集`->`使用多字节字符集`
 
+## 页面展示
+
+<img width="602" alt="screenshot" src="https://github.com/electronic-pig/MP3-player/assets/103497254/661eb6a6-b3d2-43fe-a039-56e00251b629">
