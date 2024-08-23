@@ -1,4 +1,7 @@
 # MP3-Player
+![GitHub](https://img.shields.io/github/license/electronic-pig/MP3-Player)
+![GitHub Repo stars](https://img.shields.io/github/stars/electronic-pig/MP3-Player)
+
 ## ✨ 项目介绍
 一个简单的MP3音乐播放器
 - 实现了对MP3音乐文件的播放 
